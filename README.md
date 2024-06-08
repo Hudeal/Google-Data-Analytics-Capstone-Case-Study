@@ -1,7 +1,7 @@
 # Google-Data-Analytics-Capstone-Case-Study
 Cyclistic Ride-Sharing Case Study
 
-Google Data Analyst Capstone Project
+#Google Data Analyst Capstone Project
 
 
 This case study is for Google Data Analysis Capstone Project on Coursera. 
