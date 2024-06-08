@@ -45,6 +45,9 @@ I aggregated all the data to show the mean , median, max and min for casual and 
 
 Please find the visualisations in the repository.
 
+![Number of rides by rider type](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/assets/79075880/da368797-9721-45cc-9e91-e2cbca4f8427)
+
+
 5. Share
 
 As one can see from the “Number of rides by rider type” graph, Members use Cyclistic much more that Casual riders during weekdays, most likely to get to and from work. And while Member usages are reduced significantly during weekend, there is a notable uptick in casual riders during the weekends. This most likely happens because most Members do not work weekends and Causals use the service more for transport to relaxation or relaxation.
