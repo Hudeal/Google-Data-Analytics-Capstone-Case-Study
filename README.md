@@ -58,4 +58,5 @@ The “Total Number of Rides Per Month of Member & Casual” graph shows a major
 6. Act
 
 We can see that casual riders use our service less during weekdays than members riders. We can perhaps increase casual riders’ trips during weekdays by advertising in commuter hours (06:00 - 09:00 and 16:00 - 17:00).  
+
 We also see a major uptick in use during the mid-spring & summer months. We could increase usage even further during these months by advertising our services more during this period.
