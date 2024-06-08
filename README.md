@@ -1,13 +1,14 @@
-# Google-Data-Analytics-Capstone-Case-Study
+# Google-Data-Analytics-Capstone-Case-Study#
 --------------
 In this case study, I will be taking the role of a junior data analyst for a fictional bike-sharing company called Cyclistic to answer the key business questions. I will follow the steps of the Data Analysis Process: Act, Prepare, Process, Analyse, Share, and Act.
 --------------
 1. Ask: The description of the business task.
 
 We are using the data trip from 2019 Q2 to 2020 Q1 from Cyclistic to answer questions like how casual riders (non-subscribed users) and members (subscribed users) use the bike-riding service to identify a strategy to entice casual riders to become members, or to use our services during identified casual off-peak times. We also wanted to identify the peak times of the year to spend our advertising budget efficiently. We will consolidate the data into one data frame using R and Rstudio.
-   
+
 I used the 12 months of Cyclistic trip data (2019 Q2 to 2020 Q1) to perform the analysis. This data is split into 4 different files for each of the different financial quarters. The data is available for public use by Motivate International Inc and can be downloaded through this link. 
 I used R and RStudio to have the data collected, wrangled, cleaned, stacked, manipulated and combined to perform my analysis. I will outline the steps with code samples to show my steps of the Data Analysis Process.
+   
 --------------
 3. Process: Cleaning data for better management.
 
