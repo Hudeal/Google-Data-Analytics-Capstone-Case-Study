@@ -45,7 +45,7 @@ I aggregated all the data to show the mean , median, max and min for casual and 
 
 Please find the visualisations in the repository.
 
-![Number of rides by rider type](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/assets/79075880/da368797-9721-45cc-9e91-e2cbca4f8427)
+![number of rides](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/assets/79075880/8a2e5428-5494-4573-952f-591ffd02dfd2)
 
 ![average duration](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/assets/79075880/b57708c6-801c-4eda-811c-7b41dbaedd11)
 
