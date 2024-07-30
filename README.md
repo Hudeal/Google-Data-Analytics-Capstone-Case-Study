@@ -52,7 +52,8 @@ Please find the visualisations in the repository.
 
 ![average duration](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/assets/79075880/b57708c6-801c-4eda-811c-7b41dbaedd11)
 
-Total Number of Rides Per Hour of the Day of Member & Casual chart here
+![Total Number of Rides Per Hour of the Day of Member & Casual chart
+](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/blob/main/Total%20Number%20of%20Rides%20Per%20Hour%20of%20the%20Day%20of%20Member%20&%20Casual%20chart%20here.jpg?raw=true)
 
 ![Total Number of Rides Per Month of Member   Casual](https://github.com/Hudeal/Google-Data-Analytics-Capstone-Case-Study/assets/79075880/69c0d8a7-fcd3-489b-b904-eea0af0dda8e)
 
